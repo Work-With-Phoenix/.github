@@ -2,7 +2,7 @@
 
 ### 🙋‍ We are a small group of developers making different pieces of tech as experimental projects worth trying!
 
-### 💻 We are not limite to any specific technology for development, creating something that we can use ourselves for good, is all we aim for.
+### 💻 We are not limited to any specific technology for development, creating something that we can use ourselves for good, is all we aim for.
 
 ### 
 
