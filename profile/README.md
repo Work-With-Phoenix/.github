@@ -1,16 +1,16 @@
 ## Overview
 
-### 🙋‍ We are a small group of developers making different pieces of tech as experimental projects worth trying!
+🙋‍ We are a small group of developers making different pieces of tech as experimental projects worth trying!
 
-### 💻 We are not limited to any specific technology for development, creating something that we can use ourselves for good, is all we aim for.
+💻 We are not limited to any specific technology for development, creating something that we can use ourselves for good, is all we aim for.
 
 ### 
 
 ## Contribute
 
-### Connect with [Tracy Muzembi](https://github.com/tracymuzembi) for joining this organization.
+Connect with [Tracy Muzembi](https://github.com/tracymuzembi) for joining this organization.
 
-### You can contribute at your own pace in your own way, no specific timeline is required!
+You can contribute at your own pace in your own way, no specific timeline is required!
 
 
 
